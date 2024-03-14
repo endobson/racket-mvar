@@ -2,7 +2,7 @@
 
 This library provides a Racket implementation of Haskell’s `MVar`s. To use it, install the `mvar` package:
 
-```
+```shell
 $ raco pkg install mvar
 ```
 
